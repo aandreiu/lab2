@@ -13,12 +13,13 @@ p {
      font-variant: small-caps;
 }
 
-.project p {
+.project {
+     margin-left: 20px;
      font-variant: small-caps;
-}
-
-#project1 {
-     font-variant: small-caps;
+     margin-left: 1px;
+     background-color: #A4D4E0;
+     padding: 20px;
+     width: 525px;
 }
 
 /* this style exists to make it obvious that you've successfully linked
